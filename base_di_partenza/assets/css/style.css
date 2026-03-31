@@ -183,12 +183,14 @@ footer a {
 
 @media screen and (min-width: 500px) {
  
-    }
+    
  nav ul li {
     display: inline-block;
     
  }
+
  
+} 
 
 @media screen and (min-width: 700px) {
   
@@ -282,3 +284,4 @@ footer a {
     }
 
 }
+
